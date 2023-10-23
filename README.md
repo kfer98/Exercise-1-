@@ -6,7 +6,6 @@
 
 # Que dice esa flaca?
 
-## Nada flaquin inteligentontin 
+## Nada flaquin inteligentontin :(
 
 #Te amo Camila Fernanda
-# yo mucho mas LUIS EMILIO 
