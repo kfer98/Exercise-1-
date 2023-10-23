@@ -1,6 +1,7 @@
 # One of the biggest Dams in the world
 ## Hoover Dam
 ![ImgName](https://graylinelasvegas.com/wp-content/uploads/2023/02/view-of-hoover-dam.jpg)
+***
 The Hoover Dam is a massive concrete arch-gravity dam located on the border between the U.S. states of Nevada and Arizona in the Black Canyon of the Colorado River. Its construction was the result of a massive effort involving thousands of workers and cost over 100 lives. [[1]](https://en.wikipedia.org/wiki/Hoover_Dam#cite_note-inflation-USGDP-1)
 
 The dam was constructed from 1931 to 1936 during the Great Depression and utilized an astonishing 2.5 million cubic meters of concrete. Its 17 hydroelectric generators have a combined capacity of over 2,000 megawatts, making it one of the largest hydroelectric power plants in the United States. [[2]](https://www.my-travelworld.de/usa/hoover-dam/)
