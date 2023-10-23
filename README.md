@@ -7,6 +7,7 @@ The [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) is a massive concrete
 The dam was constructed from 1931 to 1936 during the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) and utilized an astonishing 2,5 million cubic meters of concrete. Its 17 hydroelectric generators have a combined capacity of over 2.000 megawatts, making it one of the largest hydroelectric power plants in the United States [^2].
 
 One of its key functions is the creation of [Lake Mead](https://en.wikipedia.org/wiki/Lake_Mead), which is one of the largest reservoirs in the United States, capable of storing up to 35,2 million cubic kilometers. This reservoir serves critical roles in water management, irrigation, and municipal water supply in the region [^3].
+
 The [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) is not only an engineering marvel but also a significant historical and cultural landmark, attracting millions of tourists annually.
 
 * *Here are some key numerical facts about the dam:*
