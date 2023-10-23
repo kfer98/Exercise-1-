@@ -12,10 +12,7 @@
 #yo mucho mas panquesito 
 # LISTOS PARA MUNICH
 #claro que si peda peda peda 
-<<<<<<< HEAD
 # como asivaga vago vos intensssss
-=======
 
 
 # Ecuador
->>>>>>> f660d9e (masdasdsa)
