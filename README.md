@@ -4,10 +4,9 @@
 ***
 The [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) is a massive concrete [arch-gravity dam](https://en.wikipedia.org/wiki/Arch-gravity_dam) located on the border between the U.S. states of Nevada and Arizona in the Black Canyon of the [Colorado River](https://en.wikipedia.org/wiki/Colorado_River). Its construction was the result of a massive effort involving thousands of workers and cost over 100 lives [^1].
 
-The dam was constructed from 1931 to 1936 during the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) and utilized an astonishing 2,5 million cubic meters of concrete. Its 17 hydroelectric generators have a combined capacity of over 2.000 megawatts, making it one of the largest hydroelectric power plants in the United States. [[2]](https://www.my-travelworld.de/usa/hoover-dam/)
+The dam was constructed from 1931 to 1936 during the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) and utilized an astonishing 2,5 million cubic meters of concrete. Its 17 hydroelectric generators have a combined capacity of over 2.000 megawatts, making it one of the largest hydroelectric power plants in the United States [^2].
 
-One of its key functions is the creation of [Lake Mead](https://en.wikipedia.org/wiki/Lake_Mead), which is one of the largest reservoirs in the United States, capable of storing up to 35,2 million cubic kilometers. This reservoir serves critical roles in water management, irrigation, and municipal water supply in the region. [[3]](https://en.wikipedia.org/wiki/Hoover_Dam)
-
+One of its key functions is the creation of [Lake Mead](https://en.wikipedia.org/wiki/Lake_Mead), which is one of the largest reservoirs in the United States, capable of storing up to 35,2 million cubic kilometers. This reservoir serves critical roles in water management, irrigation, and municipal water supply in the region [^3].
 The [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) is not only an engineering marvel but also a significant historical and cultural landmark, attracting millions of tourists annually.
 
 * *Here are some key numerical facts about the dam:*
@@ -34,4 +33,8 @@ Numerous other dams, both in the United States and worldwide, share commonalitie
 6. [Itaipu Dam](https://en.wikipedia.org/wiki/Itaipu_Dam) (Brazil/Paraguay)
 7. [Almendra Dam](https://en.wikipedia.org/wiki/Almendra_Dam) (Spain)
 
+
+## References
 [^1]: https://graylinelasvegas.com/8-powerful-facts-you-didnt-know-about-hoover-dam/
+[^2]: https://www.my-travelworld.de/usa/hoover-dam/
+[^3]: https://en.wikipedia.org/wiki/Hoover_Dam
